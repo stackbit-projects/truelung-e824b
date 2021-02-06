@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    align: left
+    align: right
     image: images/Figure_4.jpg
     image_alt: Hero placeholder image
     image_position: right
