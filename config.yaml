@@ -9,7 +9,7 @@ params:
       - label: Methods
         url: /features
         style: link
-      - label: Blog
+      - label: Publications
         url: /blog
         style: link
       - label: About
