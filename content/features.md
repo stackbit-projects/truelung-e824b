@@ -3,7 +3,9 @@ title: Methods
 sections:
   - type: hero_section
     title: Novel techniques for thoracic MRI
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Explore our novel methods based on balanced steady-state free precession
+      imaging
     align: center
   - type: features_section
     features:
