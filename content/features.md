@@ -7,13 +7,7 @@ sections:
       Explore our novel methods based on balanced steady-state free precession
       imaging
     align: center
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: features_section
     features:
       - title: Feature 1
