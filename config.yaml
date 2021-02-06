@@ -6,7 +6,7 @@ params:
     title: TrueLung
     has_nav: true
     nav_links:
-      - label: Features
+      - label: Methods
         url: /features
         style: link
       - label: Blog
