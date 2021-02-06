@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Novel techniques for\_ thoracic MRI"
+    title: "Novel techniques for clinical\_ thoracic MRI"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
