@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: An ultra customizable generic theme for Stackbit
   header:
-    title: Starter
+    title: TrueLung
     has_nav: true
     nav_links:
       - label: Features
