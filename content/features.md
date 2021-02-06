@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Methods
 sections:
   - type: hero_section
     title: Novel techniques for thoracic MRI
