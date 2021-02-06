@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Structural and functional thoracic MRI
+    title: Novel techniques for thoracic MRI
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
