@@ -11,7 +11,6 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/Figure_4.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
