@@ -12,7 +12,7 @@ params:
       - label: Publications
         url: /blog
         style: link
-      - label: About
+      - label: Partners
         url: /about
         style: link
       - label: About
