@@ -10,9 +10,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/Figure_4.jpg
     image_alt: Hero placeholder image
