@@ -8,6 +8,7 @@ sections:
       imaging
     align: center
     actions: []
+    has_background: true
   - type: features_section
     features:
       - title: Feature 1
