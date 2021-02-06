@@ -2,7 +2,7 @@
 title: Methods
 sections:
   - type: hero_section
-    title: Novel techniques for thoracic MRI
+    title: Morphological and functional techniques for thoracic MRI
     subtitle: >-
       Explore our novel methods based on balanced steady-state free precession
       imaging
